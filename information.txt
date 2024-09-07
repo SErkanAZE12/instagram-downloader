@@ -1,0 +1,5 @@
+This is a simple Instagram downloader that works based on the username. Please note that it only supports public pages.
+
+Make sure to replace IMAGE_FOLDER_PATH with the path to your own folder.
+
+You can use the /send_images command to send all images to the user.
