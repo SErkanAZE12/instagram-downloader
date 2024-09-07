@@ -4,7 +4,7 @@ from instaloader import Profile
 import os
 
 
-Token='7143043836:AAF0oszv-_Ot0QQxHTdv9-RvUeEkDQaGHWE'
+Token='YOUR_TOKEN'
 bot=telebot.TeleBot(Token)
 username='tabrizone'
 loader = instaloader.Instaloader()
